@@ -19,30 +19,32 @@
 
 <br/>
 
-<h2 align="center">About me</h2>
-
-<p align="center">
-I am Alejandro, a developer.<br/>
-I enjoy building software, understanding how things work under the hood<br/>
-and improving a little every day.
-</p>
-
-<p align="center">
-Here you will find my projects and what I learn along the way.<br/>
-If something catches your attention, check out the repositories and reach out by opening an issue.
-</p>
-
-<br/>
-
-<h2 align="center">Programming languages</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=FFFFFF" alt="CSS" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=FFFFFF" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF" alt="Shell" />
-</p>
+<table align="center" width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h2 align="center">About me</h2>
+      <p align="center">
+        I am Alejandro, a developer.<br/>
+        I enjoy building software, understanding how things work under the hood<br/>
+        and improving a little every day.
+      </p>
+      <p align="center">
+        Here you will find my projects and what I learn along the way.<br/>
+        If something catches your attention, check out the repositories and reach out by opening an issue.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h2 align="center">Programming languages</h2>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" /><br/>
+        <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=FFFFFF" alt="CSS" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML" /><br/>
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=FFFFFF" alt="PowerShell" />
+        <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF" alt="Shell" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -50,25 +52,29 @@ If something catches your attention, check out the repositories and reach out by
 
 <p align="center">Automatically updated with my GitHub activity.</p>
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ValenzuelaAlejandro&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=CBD5E1&hide_border=true&count_private=true" alt="Statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValenzuelaAlejandro&layout=compact&theme=github_dark&bg_color=0d1117&title_color=E5E7EB&text_color=9CA3AF&hide_border=true&langs_count=8" alt="Most used languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ValenzuelaAlejandro&theme=dark&background=0d1117&ring=666666&fire=AAAAAA&currStreakLabel=E5E7EB&sideLabels=9CA3AF&dates=666666&hide_border=true" alt="Contribution streak" />
-
-</div>
+<table align="center" width="100%" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=ValenzuelaAlejandro&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=CBD5E1&hide_border=true&count_private=true" alt="Statistics" />
+    </td>
+    <td width="50%" align="center">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValenzuelaAlejandro&layout=compact&theme=github_dark&bg_color=0d1117&title_color=E5E7EB&text_color=9CA3AF&hide_border=true&langs_count=8" alt="Most used languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img src="https://streak-stats.demolab.com?user=ValenzuelaAlejandro&theme=dark&background=0d1117&ring=666666&fire=AAAAAA&currStreakLabel=E5E7EB&sideLabels=9CA3AF&dates=666666&hide_border=true" alt="Contribution streak" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
 
 <a href="https://github.com/ValenzuelaAlejandro?tab=repositories"><img src="https://img.shields.io/badge/View_my_repositories-000000?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="Repositories" /></a>
-
-<br/><br/>
-
+&nbsp;&nbsp;
 <a href="https://ko-fi.com/valenzuelacastrojesusalejandro"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a>
 
 </div>
