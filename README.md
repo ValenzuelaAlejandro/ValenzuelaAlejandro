@@ -37,11 +37,11 @@ If something catches your attention, check out the repositories and reach out by
 <h2 align="center">Programming languages</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=94A3B8" alt="CSS" />
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=CBD5E1" alt="HTML" />
-  <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=93C5FD" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=CBD5E1" alt="Shell" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=FFFFFF" alt="CSS" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=FFFFFF" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF" alt="Shell" />
 </p>
 
 <br/>
