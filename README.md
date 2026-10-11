@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./blackmore-dark.gif" alt="Subtle dark animated profile background" />
+<img width="82%" src="./blackmore-banner.gif" alt="Dark animated profile banner" />
 
 <br/>
 
