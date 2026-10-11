@@ -67,4 +67,8 @@ If something catches your attention, check out the repositories and reach out by
 
 <a href="https://github.com/ValenzuelaAlejandro?tab=repositories"><img src="https://img.shields.io/badge/View_my_repositories-000000?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="Repositories" /></a>
 
+<br/><br/>
+
+<a href="https://ko-fi.com/valenzuelacastrojesusalejandro"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a>
+
 </div>
