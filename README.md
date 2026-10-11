@@ -1,80 +1,86 @@
 <div align="center">
 
-<img width="100%" src="./blackmore-banner.gif" alt="Dark animated profile banner" />
+<img src="./assets/profile-header.svg" width="100%" alt="Alejandro Valenzuela — Developer. Web experiences. Practical tools. Continuous learning." />
 
-<br/>
+<br />
+<br />
 
-<h1 align="center">Alejandro Valenzuela</h1>
+<a href="#about">About</a> &nbsp; / &nbsp;
+<a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+<a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
+<a href="https://github.com/ValenzuelaAlejandro?tab=repositories">All repositories ↗</a>
 
-<a href="https://github.com/ValenzuelaAlejandro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=520&lines=Hello%2C+welcome+to+my+profile;I+like+building+things+with+code;Always+learning+something+new" alt="Animated text" />
-</a>
+<br />
+<br />
 
-<br/>
+**Building useful software. Learning through every iteration.**
 
-<img src="https://komarev.com/ghpvc/?username=ValenzuelaAlejandro&label=Views&color=000000&style=flat-square" alt="Views" />
-<a href="https://github.com/ValenzuelaAlejandro?tab=followers"><img src="https://img.shields.io/github/followers/ValenzuelaAlejandro?label=Followers&style=flat-square&logo=github&logoColor=E5E7EB&labelColor=000000&color=333333" alt="Followers" /></a>
+I enjoy turning ideas into working tools, exploring how software works,<br />
+and making each version a little better than the last.
 
 </div>
 
-<br/>
+<br />
 
-<table align="center" width="100%" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h2 align="center">About me</h2>
-      <p align="center">
-        I am Alejandro, a developer.<br/>
-        I enjoy building software, understanding how things work under the hood<br/>
-        and improving a little every day.
-      </p>
-      <p align="center">
-        Here you will find my projects and what I learn along the way.<br/>
-        If something catches your attention, check out the repositories and reach out by opening an issue.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h2 align="center">Programming languages</h2>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" /><br/>
-        <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=FFFFFF" alt="CSS" />
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML" /><br/>
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=FFFFFF" alt="PowerShell" />
-        <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF" alt="Shell" />
-      </p>
-    </td>
-  </tr>
+## About
+
+I'm **Alejandro Valenzuela**, a developer interested in web development and scripting. This profile brings together the projects I build and the things I learn along the way.
+
+My approach is straightforward: understand the problem, build something useful, and keep refining it. I'm especially interested in the connection between a clear interface and the code behind it.
+
+<br />
+
+## Selected work
+
+<table>
+<tr>
+<td>
+
+### [Aedos ↗](https://github.com/ValenzuelaAlejandro/Aedos)
+
+**Presentation Generator PDF**
+
+A JavaScript project focused on generating PDF presentations.
+
+The repository includes baseline and incremental quality checks, with ESLint and TypeScript checks that compare against existing baselines to prevent new issues.
+
+<img src="https://img.shields.io/badge/JavaScript-172B2A?style=flat-square&amp;logo=javascript&amp;logoColor=78E6CF" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PDF_presentations-172B2A?style=flat-square" alt="PDF presentations" />
+
+**[Explore the repository →](https://github.com/ValenzuelaAlejandro/Aedos)** &nbsp; · &nbsp; [Read the documentation](https://github.com/ValenzuelaAlejandro/Aedos#readme)
+
+</td>
+</tr>
 </table>
 
-<br/>
+<br />
 
-<h2 align="center">By the numbers</h2>
+## Toolkit
 
-<p align="center">Automatically updated with my GitHub activity.</p>
+The languages and tools I work with across web development and scripting.
 
-<table align="center" width="100%" border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=ValenzuelaAlejandro&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=E5E7EB&text_color=9CA3AF&icon_color=CBD5E1&hide_border=true&count_private=true" alt="Statistics" />
-    </td>
-    <td width="50%" align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValenzuelaAlejandro&layout=compact&theme=github_dark&bg_color=0d1117&title_color=E5E7EB&text_color=9CA3AF&hide_border=true&langs_count=8" alt="Most used languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <img src="https://streak-stats.demolab.com?user=ValenzuelaAlejandro&theme=dark&background=0d1117&ring=666666&fire=AAAAAA&currStreakLabel=E5E7EB&sideLabels=9CA3AF&dates=666666&hide_border=true" alt="Contribution streak" />
-    </td>
-  </tr>
-</table>
+| Area | Technologies |
+| :--- | :--- |
+| **Web development** | <img src="https://img.shields.io/badge/JavaScript-111820?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-111820?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-111820?style=for-the-badge&amp;logo=css&amp;logoColor=A78BFA" alt="CSS" /> |
+| **Scripting** | <img src="https://img.shields.io/badge/PowerShell-111820?style=for-the-badge" alt="PowerShell" /> <img src="https://img.shields.io/badge/Shell-111820?style=for-the-badge&amp;logo=gnubash&amp;logoColor=78E6CF" alt="Shell" /> |
 
-<br/>
+<br />
+
+## Explore & connect
+
+Browse my repositories to see what I'm building. For project questions, suggestions, or bug reports, open an issue in the relevant repository so the conversation stays close to the code.
+
+<a href="https://github.com/ValenzuelaAlejandro?tab=repositories"><img src="https://img.shields.io/badge/Explore_repositories-78E6CF?style=for-the-badge&amp;logo=github&amp;logoColor=0B1017" alt="Explore my GitHub repositories" /></a>
+&nbsp;
+<a href="https://github.com/ValenzuelaAlejandro/Aedos/issues"><img src="https://img.shields.io/badge/Discuss_Aedos-111820?style=for-the-badge&amp;logo=github&amp;logoColor=78E6CF" alt="Open an issue about Aedos" /></a>
+&nbsp;
+<a href="https://ko-fi.com/valenzuelacastrojesusalejandro"><img src="https://img.shields.io/badge/Support_on_Ko--fi-111820?style=for-the-badge&amp;logo=kofi&amp;logoColor=FF7E93" alt="Support my work on Ko-fi" /></a>
+
+<br />
+<br />
+
+---
 
 <div align="center">
-
-<a href="https://github.com/ValenzuelaAlejandro?tab=repositories"><img src="https://img.shields.io/badge/View_my_repositories-000000?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="Repositories" /></a>
-&nbsp;&nbsp;
-<a href="https://ko-fi.com/valenzuelacastrojesusalejandro"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a>
-
+<sub>Alejandro Valenzuela &nbsp; / &nbsp; Build. Understand. Improve.</sub>
 </div>
